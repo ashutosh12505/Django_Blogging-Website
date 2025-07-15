@@ -1,0 +1,13 @@
+# Ignore Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore database files
+db.sqlite3
+
+# Ignore Django secret settings if any
+*.env
+
+# VS Code settings (optional)
+.vscode/
